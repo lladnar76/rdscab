@@ -1,0 +1,189 @@
+#EXTM3U url-tvg="https://tvpass.org/epg.xml,https://iptv-epg.org/files/epg-us.xml.gz,https://iptv-epg.org/files/epg-gb.xml.gz,https://iptv-org.github.io/epg/guides/us.xml"
+
+#EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment",TNT East
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8?ch=1
+
+#EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment",TNT West
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8?ch=2
+
+#EXTINF:-1 tvg-id="truTV.us" group-title="Entertainment",truTV East
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8?ch=0
+
+#EXTINF:-1 tvg-id="truTVPacific.us" group-title="Entertainment",truTV West
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8?ch=3
+
+#EXTINF:-1 tvg-id="TBS.us" group-title="Entertainment",TBS East
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8?stream=1
+
+#EXTINF:-1 tvg-id="TBS.us" group-title="Entertainment",TBS West
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8?stream=2
+
+#EXTINF:-1 tvg-id="TCM.us" group-title="Movies",TCM West
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8?stream=0
+
+#EXTINF:-1 tvg-id="TCM.us" group-title="Movies",Turner Classic Movies (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8?stream=3
+
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" group-title="Turner",Adult Swim East
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8?stream=1
+
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" group-title="Turner",Adult Swim West
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8?stream=2
+
+#EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="BBC America" group-title="Entertainment",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSNetworkEastern.us" tvg-name="PBS" group-title="Broadcast",PBS National (East)
+https://pbs.lls.cdn.pbs.org/est/index.m3u8?stream=0
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" group-title="Documentary",Discovery Channel
+http://104.255.88.155/discovery/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOXNet.us" tvg-name="FOX" group-title="Broadcast",FOX
+http://41.205.93.154/FOX49/index.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" group-title="Entertainment",Hallmark Channel
+http://104.255.88.155/hallmark/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" group-title="Entertainment",Paramount Network
+http://104.255.88.155/paramount/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" group-title="Broadcast",Bounce TV
+http://fl51.moveonjoy.com/BOUNCE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="DIY.us" tvg-name="DIY Network" group-title="Lifestyle",DIY Network
+http://fl51.moveonjoy.com/DIY/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXNewsChannel.sxm" tvg-name="Fox News Channel" group-title="News",Fox News Channel
+http://41.205.93.154/FOX-NEWS/index.m3u8
+https://tvpass.org/live/FoxNewsChannel/hd
+https://tvpass.org/live/FoxNewsChannel/sd
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids",Nicktoons
+http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="REELZ" group-title="Entertainment",REELZ
+http://fl51.moveonjoy.com/REELZ/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" group-title="Movies",STARZ
+http://fl51.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="STARZ Comedy" group-title="Movies",STARZ Comedy
+http://fl51.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="STARZ Edge" group-title="Movies",STARZ Edge
+http://fl51.moveonjoy.com/STARZ_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="STARZ Encore" group-title="Movies",STARZ Encore
+http://fl51.moveonjoy.com/STARZ_ENCORE/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="STARZ Encore Action" group-title="Movies",STARZ Encore Action
+http://fl51.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEncoreClassicPacific.us" tvg-name="STARZ Encore Classic" group-title="Movies",STARZ Encore Classic
+http://fl51.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="STARZ West" group-title="Movies",STARZ West
+http://fl51.moveonjoy.com/STARZ_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="Broadcast",BBC One
+http://41.205.93.154/BBCONE/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" group-title="Broadcast",BBC Two
+http://41.205.93.154/BBCTWO/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three" group-title="Entertainment",BBC Three
+http://41.205.93.154/BBCTHREE/index.m3u8
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="UK Broadcast",BBC Four
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+
+
+#EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge!" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="movies",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8?ch=1
+
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="entertainment",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-name="Dark Matter TV" tvg-logo="https://i.imgur.com/9K8T3ND.png" group-title="series",Dark Matter TV
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+https://darkmattertv-plex.amagi.tv/hls/amagi_hls_data_darkmattertvA-plex/CDN/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover Film" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="movies",Discover Film
+https://amg00384-discoverfilm.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="family",Dove Channel
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryHit.us" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="documentary",History Hit
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kviedt2.us" tvg-name="KVIE-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="entertainment",KVIE2 — KVIE (PBS)
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.postimg.cc/VkdqdrkH/nickelodeon.png" group-title="kids",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-id="5-Star-Max.us" tvg-name="5 Star Max" group-title="Movies",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+
+
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny",ABC East
+https://tvpass.org/live/WABCDT1/hd
+https://tvpass.org/live/WABCDT1/sd
+
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca",ABC West
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca",CBS West
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS East" group-title="USA Networks",CBS East
+https://tvpass.org/live/WCBSDT1/hd
+https://tvpass.org/live/WCBSDT1/sd
+
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia",CW East
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca",CW West
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="CW New York (WPIX)" group-title="USA Locals",CW New York (WPIX)
+https://tvpass.org/live/wpix-new-york-superstation/hd
+https://tvpass.org/live/wpix-new-york-superstation/sd
+
+
+
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca",NBC West 
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny",NBC East
+https://tvpass.org/live/WNBCDT1/hd
+https://tvpass.org/live/WNBCDT1/sd
+
+
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca",FOX West 
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny",FOX East
+https://tvpass.org/live/WNYWDT1/hd
+https://tvpass.org/live/WNYWDT1/sd
+
+
+
+
+
+
