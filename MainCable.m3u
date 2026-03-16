@@ -111,7 +111,8 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8?ch=1
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="entertainment",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-#EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-name="Dark Matter TV" tvg-logo="https://i.imgur.com/9K8T3ND.png" group-title="series",Dark Matter TV
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6" tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6" tvg-chno="" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6/?X-Plex-Token=z_DsQ_4BJRJojzRqPxCx
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 https://darkmattertv-plex.amagi.tv/hls/amagi_hls_data_darkmattertvA-plex/CDN/master.m3u8
 
