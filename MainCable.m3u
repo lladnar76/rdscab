@@ -57,10 +57,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="DIY.us" tvg-name="DIY Network" group-title="Lifestyle",DIY Network
 http://fl51.moveonjoy.com/DIY/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXNewsChannel.sxm" tvg-name="Fox News Channel" group-title="News",Fox News Channel
+#EXTINF:-1 tvg-id="FOXNewsChannel.sxm" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="news",Fox News Channel
 http://41.205.93.154/FOX-NEWS/index.m3u8
 https://tvpass.org/live/FoxNewsChannel/hd
 https://tvpass.org/live/FoxNewsChannel/sd
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+https://e2.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=DoZDGS25sQSGSHyCpbz1Lw&expires=1767024583&user_id=MTA3LjE3My4xNDAuMTY0
+https://e2.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=huhFNKfkpOBOacm4NvClgg&expires=1767024584&user_id=MTA3LjE3My4xNDAuMTY0
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids",Nicktoons
 http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
@@ -102,7 +105,6 @@ https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="UK Broadcast",BBC Four
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 
-
 #EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge!" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="movies",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8?ch=1
 
@@ -113,14 +115,8 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 https://darkmattertv-plex.amagi.tv/hls/amagi_hls_data_darkmattertvA-plex/CDN/master.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover Film" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="movies",Discover Film
 https://amg00384-discoverfilm.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="family",Dove Channel
-https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HistoryHit.us" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="documentary",History Hit
 https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
@@ -133,7 +129,6 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="5-Star-Max.us" tvg-name="5 Star Max" group-title="Movies",Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-
 
 #EXTINF:-1 tvg-id="abc-wabc-new-york-ny",ABC East
 https://tvpass.org/live/WABCDT1/hd
@@ -163,8 +158,6 @@ https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
 https://tvpass.org/live/wpix-new-york-superstation/hd
 https://tvpass.org/live/wpix-new-york-superstation/sd
 
-
-
 #EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca",NBC West 
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
@@ -172,7 +165,6 @@ https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny",NBC East
 https://tvpass.org/live/WNBCDT1/hd
 https://tvpass.org/live/WNBCDT1/sd
-
 
 #EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca",FOX West 
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
@@ -182,8 +174,5 @@ https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 https://tvpass.org/live/WNYWDT1/hd
 https://tvpass.org/live/WNYWDT1/sd
 
-
-
-
-
-
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641" tvg-id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641" tvg-chno="" tvg-name="BBC Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b627a5e-4c24-4f70-8392-f6d7c5080bee/BBC_SCI-FI_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="United States",BBC Sci-Fi
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641/?X-Plex-Token=z_DsQ_4BJRJojzRqPxCx
