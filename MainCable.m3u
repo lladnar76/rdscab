@@ -245,5 +245,10 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="VH1.us",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.us",AMC
+http://89.105.221.127/AMC/index.m3u8?token=test
+http://backup1.m3u8
+http://backup2.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
