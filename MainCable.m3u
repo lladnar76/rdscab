@@ -177,3 +177,20 @@ https://tvpass.org/live/WNYWDT1/sd
 
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641" tvg-id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641" tvg-chno="" tvg-name="BBC Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b627a5e-4c24-4f70-8392-f6d7c5080bee/BBC_SCI-FI_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="United States",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641/?X-Plex-Token=z_DsQ_4BJRJojzRqPxCx
+
+#EXTINF:-1 tvg-id="Fuse.us@East",Fuse East 
+https://tvpass.org/live/FuseEast/hd
+https://tvpass.org/live/FuseEast/sd
+
+#EXTINF:-1 tvg-id="FX.us@East",FX East
+https://tvpass.org/live/FXEast/hd
+https://tvpass.org/live/FXEast/sd
+
+#EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel
+https://tvpass.org/live/FXMovieChannel/hd
+https://tvpass.org/live/FXMovieChannel/sd
+
+#EXTINF:-1 tvg-id="FXX.us@East",FXX East (720p)
+https://tvpass.org/live/FXXEast/hd
+https://tvpass.org/live/FXXEast/sd
+
