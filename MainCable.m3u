@@ -58,9 +58,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://fl51.moveonjoy.com/DIY/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXNewsChannel.sxm" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="news",Fox News Channel
-http://41.205.93.154/FOX-NEWS/index.m3u8
 https://tvpass.org/live/FoxNewsChannel/hd
 https://tvpass.org/live/FoxNewsChannel/sd
+http://41.205.93.154/FOX-NEWS/index.m3u8
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://e2.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=DoZDGS25sQSGSHyCpbz1Lw&expires=1767024583&user_id=MTA3LjE3My4xNDAuMTY0
 https://e2.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=huhFNKfkpOBOacm4NvClgg&expires=1767024584&user_id=MTA3LjE3My4xNDAuMTY0
@@ -113,7 +113,7 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8?ch=1
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="entertainment",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6" tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6" tvg-chno="" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6" tvg-id="darkmattertv-plex.amagi.tv" tvg-chno="" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6/?X-Plex-Token=z_DsQ_4BJRJojzRqPxCx
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 https://darkmattertv-plex.amagi.tv/hls/amagi_hls_data_darkmattertvA-plex/CDN/master.m3u8
