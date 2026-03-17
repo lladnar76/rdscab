@@ -94,6 +94,8 @@ http://fl51.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="Broadcast",BBC One
 http://41.205.93.154/BBCONE/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" group-title="Broadcast",BBC Two
 http://41.205.93.154/BBCTWO/index.m3u8
@@ -250,5 +252,10 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 http://89.105.221.127/AMC/index.m3u8?token=test
 http://backup1.m3u8
 http://backup2.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmerica.us",BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
