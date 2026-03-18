@@ -32,6 +32,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_51
 
 #EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="BBC America" group-title="Entertainment",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="PBSNetworkEastern.us" tvg-name="PBS" group-title="Broadcast",PBS National (East)
 https://pbs.lls.cdn.pbs.org/est/index.m3u8?stream=0
@@ -47,7 +50,6 @@ http://104.255.88.155/hallmark/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" group-title="Entertainment",Paramount Network
 http://104.255.88.155/paramount/playlist.m3u8
-https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" group-title="Broadcast",Bounce TV
 http://fl51.moveonjoy.com/BOUNCE_TV/index.m3u8
@@ -114,13 +116,10 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8?ch=1
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="entertainment",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6" tvg-id="darkmattertv-plex.amagi.tv" tvg-chno="" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
+#EXTINF:-1 channel-id="darkmatter.us" tvg-id="darkmattertv-plex.amagi.tv" tvg-chno="" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6/?X-Plex-Token=z_DsQ_4BJRJojzRqPxCx
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 https://darkmattertv-plex.amagi.tv/hls/amagi_hls_data_darkmattertvA-plex/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover Film" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="movies",Discover Film
-https://amg00384-discoverfilm.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HistoryHit.us" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="documentary",History Hit
 https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
@@ -177,11 +176,9 @@ https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
 
 #EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny",NBC East
+http://84.17.50.102/nbc/index.m3u8
 https://tvpass.org/live/WNBCDT1/hd
 https://tvpass.org/live/WNBCDT1/sd
-
-#EXTINF:-1 tvg-id="NBC.us" group-title="Network",NBC
-http://84.17.50.102/nbc/index.m3u8
 
 #EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca",FOX West 
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
@@ -195,9 +192,6 @@ https://tvpass.org/live/WNYWDT1/sd
 http://84.17.50.102/fox/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
-
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641" tvg-id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641" tvg-chno="" tvg-name="BBC Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b627a5e-4c24-4f70-8392-f6d7c5080bee/BBC_SCI-FI_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="United States",BBC Sci-Fi
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641/?X-Plex-Token=z_DsQ_4BJRJojzRqPxCx
 
 #EXTINF:-1 tvg-id="Fuse.us@East",Fuse East 
 https://tvpass.org/live/FuseEast/hd
@@ -216,15 +210,15 @@ https://tvpass.org/live/FXXEast/hd
 https://tvpass.org/live/FXXEast/sd
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
-#EXTINF:-1 tvg-id="IFC.us@East",IFC East 
+#EXTINF:-1 tvg-id="IFC.us",IFC East 
 https://tvpass.org/live/IFCEast/hd
 https://tvpass.org/live/IFCEast/sd
 
-#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network East
+#EXTINF:-1 tvg-id="USANetwork.us",USA Network East
 https://tvpass.org/live/USANetworkEast/hd
 https://tvpass.org/live/USANetworkEast/sd
 
-#EXTINF:-1,Cinemax
+#EXTINF:-1, tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Premium",Cinemax
 http://source1.m3u8
 http://source2.m3u8
 http://source3.m3u8
@@ -237,8 +231,6 @@ http://backup-source-2.m3u8
 
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" group-title="Premium",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO.us" group-title="Premium",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.us" group-title="Premium",HBO 2
@@ -250,7 +242,7 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBOZone.us" group-title="Premium",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="MoreMax.us",MoreMax
+#EXTINF:-1, tvg-id="moremax.us" tvg-name="MoreMax" group-title="Premium",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
@@ -271,11 +263,6 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 http://89.105.221.127/AMC/index.m3u8?token=test
 http://backup1.m3u8
 http://backup2.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
-
-#EXTINF:-1 tvg-id="BBCAmerica.us",BBC America
-http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
