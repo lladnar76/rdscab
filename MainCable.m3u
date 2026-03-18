@@ -191,7 +191,7 @@ http://84.17.50.102/fox/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
-#EXTINF:-1 tvg-id="fuse.us",Fuse East 
+#EXTINF:-1 tvg-id="Fuse.us",Fuse East 
 https://tvpass.org/live/FuseEast/hd
 https://tvpass.org/live/FuseEast/sd
 
