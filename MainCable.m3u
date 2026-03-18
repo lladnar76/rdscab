@@ -221,7 +221,6 @@ https://tvpass.org/live/USANetworkEast/hd
 https://tvpass.org/live/USANetworkEast/sd
 
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Premium",Cinemax
-https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 http://source1.m3u8
 http://source2.m3u8
 http://source3.m3u8
