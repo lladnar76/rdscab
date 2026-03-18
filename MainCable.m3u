@@ -151,6 +151,9 @@ https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 https://tvpass.org/live/WCBSDT1/hd
 https://tvpass.org/live/WCBSDT1/sd
 
+#EXTINF:-1 tvg-id="CBS.us" group-title="Network",CBS
+http://84.17.50.102/cbs/index.m3u8
+
 #EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia",CW East
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
@@ -163,13 +166,22 @@ https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
 https://tvpass.org/live/wpix-new-york-superstation/hd
 https://tvpass.org/live/wpix-new-york-superstation/sd
 
+#EXTINF:-1 tvg-id="CW.us",The CW
+http://84.17.50.102/cw/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
 #EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca",NBC West 
+http://84.17.50.102/nbc/index.m3u8
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
 
 #EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny",NBC East
 https://tvpass.org/live/WNBCDT1/hd
 https://tvpass.org/live/WNBCDT1/sd
+
+#EXTINF:-1 tvg-id="NBC.us" group-title="Network",NBC
+http://84.17.50.102/nbc/index.m3u8
 
 #EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca",FOX West 
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
@@ -178,6 +190,11 @@ https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="fox-wnyw-new-york-ny",FOX East
 https://tvpass.org/live/WNYWDT1/hd
 https://tvpass.org/live/WNYWDT1/sd
+
+#EXTINF:-1 tvg-id="FOX.us",FOX
+http://84.17.50.102/fox/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
 
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641" tvg-id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641" tvg-chno="" tvg-name="BBC Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b627a5e-4c24-4f70-8392-f6d7c5080bee/BBC_SCI-FI_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="United States",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641/?X-Plex-Token=z_DsQ_4BJRJojzRqPxCx
@@ -259,5 +276,10 @@ http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="BBCAmerica.us",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="History.us",History
+http://84.17.50.102/history/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
