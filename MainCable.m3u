@@ -195,7 +195,7 @@ http://backup2.m3u8
 https://tvpass.org/live/FuseEast/hd
 https://tvpass.org/live/FuseEast/sd
 
-#EXTINF:-1 tvg-id="FX.us@East",FX East
+#EXTINF:-1 tvg-id="FX.us",FX East
 https://tvpass.org/live/FXEast/hd
 https://tvpass.org/live/FXEast/sd
 
