@@ -196,6 +196,9 @@ https://tvpass.org/live/FuseEast/hd
 https://tvpass.org/live/FuseEast/sd
 
 #EXTINF:-1 tvg-id="FX.us",FX East
+http://23.237.104.106:8080/USA_FX/index.m3u8
+http://backup-source-1.m3u8
+http://backup-source-2.m3u8
 https://tvpass.org/live/FXEast/hd
 https://tvpass.org/live/FXEast/sd
 
@@ -203,7 +206,7 @@ https://tvpass.org/live/FXEast/sd
 https://tvpass.org/live/FXMovieChannel/hd
 https://tvpass.org/live/FXMovieChannel/sd
 
-#EXTINF:-1 tvg-id="FXX.us@East",FXX East (720p)
+#EXTINF:-1 tvg-id="FXX@us",FXX East (720p)
 https://tvpass.org/live/FXXEast/hd
 https://tvpass.org/live/FXXEast/sd
 http://23.237.104.106:8080/USA_FXX/index.m3u8
@@ -221,11 +224,6 @@ http://source1.m3u8
 http://source2.m3u8
 http://source3.m3u8
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FX.us",FX
-http://23.237.104.106:8080/USA_FX/index.m3u8
-http://backup-source-1.m3u8
-http://backup-source-2.m3u8
 
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" group-title="Premium",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
