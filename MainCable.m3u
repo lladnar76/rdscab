@@ -206,7 +206,7 @@ https://tvpass.org/live/FXEast/sd
 https://tvpass.org/live/FXMovieChannel/hd
 https://tvpass.org/live/FXMovieChannel/sd
 
-#EXTINF:-1 tvg-id="FXX@us",FXX East (720p)
+#EXTINF:-1 tvg-id="FXX.us",FXX East (720p)
 https://tvpass.org/live/FXXEast/hd
 https://tvpass.org/live/FXXEast/sd
 http://23.237.104.106:8080/USA_FXX/index.m3u8
