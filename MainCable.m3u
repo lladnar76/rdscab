@@ -47,9 +47,6 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 http://84.17.50.102/discovery/index.m3u8
 http://backup3.m3u8
 
-#EXTINF:-1 tvg-id="FOXNet.us" tvg-name="FOX" group-title="Broadcast",FOX
-http://41.205.93.154/FOX49/index.m3u8
-
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" group-title="Entertainment",Hallmark Channel
 http://104.255.88.155/hallmark/playlist.m3u8
 
@@ -188,13 +185,12 @@ https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 
 #EXTINF:-1 tvg-id="fox-wnyw-new-york-ny",FOX East
-https://tvpass.org/live/WNYWDT1/hd
-https://tvpass.org/live/WNYWDT1/sd
-
-#EXTINF:-1 tvg-id="FOX.us",FOX
+http://41.205.93.154/FOX49/index.m3u8
 http://84.17.50.102/fox/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
+https://tvpass.org/live/WNYWDT1/hd
+https://tvpass.org/live/WNYWDT1/sd
 
 #EXTINF:-1 tvg-id="Fuse.us",Fuse East 
 https://tvpass.org/live/FuseEast/hd
@@ -207,7 +203,7 @@ http://backup-source-2.m3u8
 https://tvpass.org/live/FXEast/hd
 https://tvpass.org/live/FXEast/sd
 
-#EXTINF:-1 tvg-id="FXMovieChannel.us@SD",FX Movie Channel
+#EXTINF:-1 tvg-id="FXMovieChannel.us",FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/hd
 https://tvpass.org/live/FXMovieChannel/sd
 
@@ -225,10 +221,10 @@ https://tvpass.org/live/USANetworkEast/hd
 https://tvpass.org/live/USANetworkEast/sd
 
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Premium",Cinemax
+https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 http://source1.m3u8
 http://source2.m3u8
 http://source3.m3u8
-https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" group-title="Premium",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
@@ -243,7 +239,7 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBOZone.us" group-title="Premium",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="MoreMax" group-title="Premium",MoreMax
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="MoreMax" group-title="Premium",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
