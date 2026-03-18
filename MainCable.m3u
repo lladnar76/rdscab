@@ -132,7 +132,7 @@ https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.postimg.cc/VkdqdrkH/nickelodeon.png" group-title="kids",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="5-Star-Max.us" tvg-name="5 Star Max" group-title="Movies",Cinemax Classics
+#EXTINF:-1 tvg-id="5-CinemaxClassics.us" tvg-name="5 Star Max" group-title="Movies",Cinemax Classics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
