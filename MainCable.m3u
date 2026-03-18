@@ -224,7 +224,7 @@ https://tvpass.org/live/IFCEast/sd
 https://tvpass.org/live/USANetworkEast/hd
 https://tvpass.org/live/USANetworkEast/sd
 
-#EXTINF:-1, tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Premium",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Premium",Cinemax
 http://source1.m3u8
 http://source2.m3u8
 http://source3.m3u8
@@ -243,7 +243,7 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBOZone.us" group-title="Premium",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1, tvg-id="moremax.us" tvg-name="MoreMax" group-title="Premium",MoreMax
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="MoreMax" group-title="Premium",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
