@@ -55,9 +55,6 @@ http://104.255.88.155/hallmark/playlist.m3u8
 http://84.17.50.102/hallmark/index.m3u8
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" group-title="Entertainment",Paramount Network
-http://104.255.88.155/paramount/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" group-title="Broadcast",Bounce TV
 http://fl51.moveonjoy.com/BOUNCE_TV/index.m3u8
 
@@ -134,7 +131,7 @@ https://darkmattertv-plex.amagi.tv/hls/amagi_hls_data_darkmattertvA-plex/CDN/mas
 #EXTINF:-1 tvg-id="HistoryHit.us" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="documentary",History Hit
 https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="kviedt2.us" tvg-name="KVIE-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="entertainment",KVIE2 — KVIE (PBS)
+#EXTINF:-1 tvg-id="KVIEDT2.us" tvg-name="KVIE-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="entertainment",KVIE2 — KVIE (PBS)
 https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.postimg.cc/VkdqdrkH/nickelodeon.png" group-title="kids",Nickelodeon
@@ -280,7 +277,7 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
-#EXTINF:-1 tvg-id="E.us" tvg-name="E!" group-title="Entertainment",E!
+#EXTINF:-1 tvg-id="E!.us" tvg-name="E!" group-title="Entertainment",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" group-title="Entertainment",Freeform
