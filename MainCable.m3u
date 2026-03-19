@@ -80,6 +80,8 @@ http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="REELZ" group-title="Entertainment",REELZ
 http://fl51.moveonjoy.com/REELZ/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ" group-title="Movies",STARZ
 http://fl51.moveonjoy.com/STARZ/index.m3u8
@@ -305,11 +307,6 @@ http://23.237.104.106:8080/USA_OWN/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
-#EXTINF:-1 tvg-id="Reelz.us" tvg-name="REELZ" group-title="Entertainment",REELZ
-http://fl51.moveonjoy.com/REELZ/index.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
-
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Science Channel" group-title="Documentary",Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 http://backup1.m3u8
@@ -340,7 +337,7 @@ http://84.17.50.102/ae/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
-#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover Film" group-title="Movies",Discover Film
+#EXTINF:-1 tvg-id="discover_film_uk" tvg-name="Discover Film" group-title="Movies",Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="FAST",FAST Channel,Rakuten TV Top Movies UK
@@ -352,13 +349,12 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="FAST",FAST Channel 6181,Rakuten TV Comedy Movies UK
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 
-#EXTINF:-1 group-title="FAST",FAST Channel 6093,Rakuten TV Drama Movies UK
+#EXTINF:-1 tvg-id="rakuten_drama_movies_uk" tvg-name="Rakuten TV Family Movies" group-title="Movies",Rakuten TV Drama Movies UK
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 
 #EXTINF:-1 tvg-id="rakuten_family_movies_uk" tvg-name="Rakuten TV Family Movies" group-title="Movies",Rakuten TV Family Movies
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-https://backup1.m3u8
-https://backup2.m3u8
+
 
 
 
