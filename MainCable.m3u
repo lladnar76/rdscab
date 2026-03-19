@@ -305,4 +305,17 @@ http://23.237.104.106:8080/USA_OWN/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
+#EXTINF:-1 tvg-id="Reelz.us" tvg-name="REELZ" group-title="Entertainment",REELZ
+http://fl51.moveonjoy.com/REELZ/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
 
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Science Channel" group-title="Documentary",Science Channel
+http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="We TV" group-title="Entertainment",We TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
