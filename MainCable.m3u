@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://tvpass.org/epg.xml,https://iptv-epg.org/files/epg-us.xml.gz,https://iptv-epg.org/files/epg-gb.xml.gz,https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U url-tvg="https://tvpass.org/epg.xml,https://iptv-epg.org/files/epg-us.xml.gz,https://iptv-epg.org/files/epg-gb.xml.gz,https://iptv-org.github.io/epg/guides/us.xml,https://raw.githubusercontent.com/dp247/rakuten-uk-epg/master/epg.xml"
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8?ch=1
