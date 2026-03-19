@@ -2,6 +2,9 @@
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8?ch=1
+http://84.17.50.102/tnt/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8?ch=2
@@ -317,5 +320,25 @@ http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="WeTV.us" tvg-name="We TV" group-title="Entertainment",We TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV Land" group-title="Entertainment",TV Land
+http://origin.thetvapp.to/hls/tv-land-eastern/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" group-title="Lifestyle",TLC
+http://84.17.50.102/tlc/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids",Disney Channel
+http://84.17.50.102/disneychannel/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" group-title="Entertainment",A&E
+http://84.17.50.102/ae/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
