@@ -339,3 +339,6 @@ http://backup2.m3u8
 http://84.17.50.102/ae/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover Film" group-title="Movies",Discover Film
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
