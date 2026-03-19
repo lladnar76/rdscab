@@ -43,17 +43,17 @@ http://backup2.m3u8
 https://pbs.lls.cdn.pbs.org/est/index.m3u8?stream=0
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" group-title="Documentary",Discovery Channel
-http://84.17.50.102/discovery/index.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 http://84.17.50.102/discovery/index.m3u8
 http://backup3.m3u8
+http://84.17.50.102/discovery/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" group-title="Entertainment",Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 http://104.255.88.155/hallmark/playlist.m3u8
 http://84.17.50.102/hallmark/index.m3u8
-http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" group-title="Broadcast",Bounce TV
 http://fl51.moveonjoy.com/BOUNCE_TV/index.m3u8
@@ -123,7 +123,7 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8?ch=1
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="entertainment",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-#EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
+#EXTINF:-1 tvg-id="darkmattertv.us" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6/?X-Plex-Token=z_DsQ_4BJRJojzRqPxCx
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 https://darkmattertv-plex.amagi.tv/hls/amagi_hls_data_darkmattertvA-plex/CDN/master.m3u8
@@ -138,8 +138,8 @@ https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="CinemaxClassics.us" tvg-name="Cinemax Classics" group-title="Movies",Cinemax Classics
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="abc-wabc-new-york-ny",ABC East
 https://tvpass.org/live/WABCDT1/hd
