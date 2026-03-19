@@ -125,7 +125,7 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8?ch=1
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="entertainment",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-#EXTINF:-1 tvg-id="darkmattertv.us" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
+#EXTINF:-1 tvg-id="dark-matter-tv-us" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6/?X-Plex-Token=z_DsQ_4BJRJojzRqPxCx
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 https://darkmattertv-plex.amagi.tv/hls/amagi_hls_data_darkmattertvA-plex/CDN/master.m3u8
@@ -133,7 +133,7 @@ https://darkmattertv-plex.amagi.tv/hls/amagi_hls_data_darkmattertvA-plex/CDN/mas
 #EXTINF:-1 tvg-id="HistoryHit.us" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="documentary",History Hit
 https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KVIEDT2.us" tvg-name="KVIE-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="entertainment",KVIE2 — KVIE (PBS)
+#EXTINF:-1 tvg-id="KVIED-DT2.us" tvg-name="KVIE-DT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" group-title="entertainment",KVIE2 — KVIE (PBS)
 https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.postimg.cc/VkdqdrkH/nickelodeon.png" group-title="kids",Nickelodeon
@@ -250,7 +250,7 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
-#EXTINF:-1 tvg-id="SHO.us" group-title="Premium",Showtime
+#EXTINF:-1 tvg-id="sho.us" group-title="Premium",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="SHOFamily.us" group-title="Premium",Showtime Family
@@ -332,7 +332,7 @@ http://84.17.50.102/disneychannel/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
-#EXTINF:-1 tvg-id="A&E.us" tvg-name="A&E" group-title="Entertainment",A&E
+#EXTINF:-1 tvg-id="AE.us" tvg-name="A&E" group-title="Entertainment",A&E
 http://84.17.50.102/ae/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
