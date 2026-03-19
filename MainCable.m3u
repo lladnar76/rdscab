@@ -49,6 +49,8 @@ http://backup3.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" group-title="Entertainment",Hallmark Channel
 http://104.255.88.155/hallmark/playlist.m3u8
+http://84.17.50.102/hallmark/index.m3u8
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" group-title="Entertainment",Paramount Network
 http://104.255.88.155/paramount/playlist.m3u8
@@ -59,8 +61,11 @@ http://fl51.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="DIY.us" tvg-name="DIY Network" group-title="Lifestyle",DIY Network
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us",Magnolia Network
 http://fl51.moveonjoy.com/DIY/index.m3u8
+http://fl51.moveonjoy.com/DIY/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="FOXNewsChannel.sxm" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="news",Fox News Channel
 https://tvpass.org/live/FoxNewsChannel/hd
@@ -118,7 +123,7 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8?ch=1
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="entertainment",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-#EXTINF:-1 channel-id="darkmatter.us" tvg-id="darkmattertv-plex.amagi.tv" tvg-chno="" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
+#EXTINF:-1 tvg-id="DarkMatterTV.us" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="United States",Dark Matter TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6/?X-Plex-Token=z_DsQ_4BJRJojzRqPxCx
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 https://darkmattertv-plex.amagi.tv/hls/amagi_hls_data_darkmattertvA-plex/CDN/master.m3u8
@@ -203,7 +208,7 @@ http://backup-source-2.m3u8
 https://tvpass.org/live/FXEast/hd
 https://tvpass.org/live/FXEast/sd
 
-#EXTINF:-1 tvg-id="FXMovieChannel.us",FX Movie Channel
+#EXTINF:-1 tvg-id="FXM.us",FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/hd
 https://tvpass.org/live/FXMovieChannel/sd
 
@@ -221,9 +226,9 @@ https://tvpass.org/live/USANetworkEast/hd
 https://tvpass.org/live/USANetworkEast/sd
 
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Premium",Cinemax
-http://source1.m3u8
-http://source2.m3u8
-http://source3.m3u8
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+http://backup-source-1.m3u8
+http://backup-source-2.m3u8
 
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" group-title="Premium",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
@@ -243,10 +248,10 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.us" group-title="Premium",Showtime
+#EXTINF:-1 tvg-id="SHO.us" group-title="Premium",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeFamily.us" group-title="Premium",Showtime Family
+#EXTINF:-1 tvg-id="SHOFamily.us" group-title="Premium",Showtime Family
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="SYFY.us" group-title="Entertainment",SYFY
@@ -266,3 +271,38 @@ http://backup2.m3u8
 http://84.17.50.102/history/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" group-title="Entertainment",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="E.us" tvg-name="E!" group-title="Entertainment",E!
+http://23.237.104.106:8080/USA_E/index.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" group-title="Entertainment",Freeform
+http://origin.thetvapp.to/hls/FreeformEast/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP" group-title="Entertainment",INSP
+http://89.105.221.127/INSP/index.m3u8?token=test
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" group-title="Documentary",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="Nat Geo Wild" group-title="Documentary",Nat Geo Wild
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN" group-title="Lifestyle",OWN
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+http://backup1.m3u8
+http://backup2.m3u8
+
+
