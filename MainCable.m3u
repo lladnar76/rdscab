@@ -163,10 +163,6 @@ https://tvpass.org/live/WCBSDT1/sd
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
 
-#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca",CW West
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
-
 #EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="CW New York (WPIX)" group-title="USA Locals",CW New York (WPIX)
 https://tvpass.org/live/wpix-new-york-superstation/hd
 https://tvpass.org/live/wpix-new-york-superstation/sd
