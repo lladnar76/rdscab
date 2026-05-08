@@ -264,6 +264,9 @@ http://backup2.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" group-title="Movies",SYFY
+http://nosslstreams.ufreetv.com/?stream=http%3A%2F%2F41.205.93.154%2FSYFY%2Findex.m3u
+
 #EXTINF:-1 tvg-id="History.us",History
 http://84.17.50.102/history/index.m3u8
 http://backup1.m3u8
