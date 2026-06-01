@@ -79,6 +79,7 @@ https://e2.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=huhFNKfkpO
 http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="REELZ" group-title="Entertainment",REELZ
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
 http://fl51.moveonjoy.com/REELZ/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
