@@ -288,14 +288,14 @@ http://backup1.m3u8
 http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" group-title="Documentary",National Geographic
+http://84.17.50.102/nationalgeographic/index.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="Nat Geo Wild" group-title="Documentary",Nat Geo Wild
+http://84.17.50.102/natgeowild/index.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN" group-title="Lifestyle",OWN
 http://84.17.50.102/own/index.m3u8
