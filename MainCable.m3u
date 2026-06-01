@@ -155,6 +155,7 @@ https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 
 #EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS East" group-title="Networks",CBS East
+http://stream.cammonitorplus.net/1810/index.m3u8
 http://84.17.50.102/cbs/index.m3u8
 https://tvpass.org/live/WCBSDT1/hd
 https://tvpass.org/live/WCBSDT1/sd
