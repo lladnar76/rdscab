@@ -298,9 +298,8 @@ http://backup1.m3u8
 http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN" group-title="Lifestyle",OWN
+http://84.17.50.102/own/index.m3u8
 http://23.237.104.106:8080/USA_OWN/index.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Science Channel" group-title="Documentary",Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
