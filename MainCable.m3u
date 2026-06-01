@@ -257,12 +257,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC.us",AMC
-http://89.105.221.127/AMC/index.m3u8?token=test
-http://backup1.m3u8
-http://backup2.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
+#EXTINF:-1 tvg-id="AMC.us",AMChttps://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" group-title="Movies",SYFY
 http://nosslstreams.ufreetv.com/?stream=http%3A%2F%2F41.205.93.154%2FSYFY%2Findex.m3u
