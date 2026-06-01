@@ -51,9 +51,9 @@ http://backup1.m3u8
 http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" group-title="Entertainment",Hallmark Channel
+http://84.17.50.102/hallmark/index.m3u8
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 http://104.255.88.155/hallmark/playlist.m3u8
-http://84.17.50.102/hallmark/index.m3u8
 
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" group-title="Broadcast",Bounce TV
 http://fl51.moveonjoy.com/BOUNCE_TV/index.m3u8
