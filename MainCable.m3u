@@ -104,6 +104,9 @@ http://fl51.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="STARZ West" group-title="Movies",STARZ West
 http://fl51.moveonjoy.com/STARZ_WEST/index.m3u8
 
+#EXTINF:-1,Travel Channel
+http://84.17.50.102/travel/index.m3u8
+
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" group-title="Broadcast",BBC One
 http://41.205.93.154/BBCONE/index.m3u8
 http://backup1.m3u8
