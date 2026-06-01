@@ -318,8 +318,9 @@ http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" group-title="Kids",Disney Channel
 http://84.17.50.102/disneychannel/index.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
+
+#EXTINF:-1,Disney XD
+http://84.17.50.102/disneyxd/index.m3u8
 
 #EXTINF:-1 tvg-id="AE.us" tvg-name="A&E" group-title="Entertainment",A&E
 http://84.17.50.102/ae/index.m3u8
