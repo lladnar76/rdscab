@@ -63,9 +63,6 @@ http://84.17.50.102/hallmark/index.m3u8
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 http://104.255.88.155/hallmark/playlist.m3u8
 
-{#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" group-title="Broadcast",Bounce TV
-http://fl51.moveonjoy.com/BOUNCE_TV/index.m3u8|
-
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
@@ -175,10 +172,6 @@ https://tvpass.org/live/WCBSDT1/sd
 #EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia",CW East
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-
-#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="CW New York (WPIX)" group-title="USA Locals",CW New York (WPIX)
-https://tvpass.org/live/wpix-new-york-superstation/hd
-https://tvpass.org/live/wpix-new-york-superstation/sd
 
 #EXTINF:-1 tvg-id="CW.us",The CW
 http://84.17.50.102/cw/index.m3u8
