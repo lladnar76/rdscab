@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8?ch=1
 http://84.17.50.102/tnt/index.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8?ch=2
@@ -41,6 +39,15 @@ http://backup2.m3u8
 
 #EXTINF:-1 tvg-id="BBCComedy.uk" tvg-name="BBC Comedy" tvg-logo="" group-title="Entertainment",BBC Comedy
 https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" tvg-logo="" group-title="Entertainment",BBC Drama
+https://pb-0ix3l1oxmg1fj.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCSeries.uk" tvg-name="BBC Series" tvg-logo="" group-title="Entertainment",BBC Series
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="" group-title="Documentary",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBSNetworkEastern.us" tvg-name="PBS" group-title="Broadcast",PBS National (East)
 https://pbs.lls.cdn.pbs.org/est/index.m3u8?stream=0
