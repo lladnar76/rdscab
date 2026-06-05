@@ -125,8 +125,8 @@ http://41.205.93.154/BBCTWO/index.m3u8
 http://41.205.93.154/BBCTHREE/index.m3u8
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="UK Broadcast",BBC Four
-https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+{#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="UK Broadcast",BBC Four
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8}
 
 #EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge!" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="movies",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8?ch=1
@@ -177,6 +177,12 @@ https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
 http://84.17.50.102/cw/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
+
+#EXTINF:-1 tvg-id="CWGold.us" tvg-name="CW Gold" tvg-logo="" group-title="Entertainment",CW Gold
+https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CWForever.us" tvg-name="CW Forever" tvg-logo="" group-title="Entertainment",CW Forever
+https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca",NBC West
 http://84.17.50.102/nbc/index.m3u8
