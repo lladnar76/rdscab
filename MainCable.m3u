@@ -282,10 +282,10 @@ http://backup2.m3u8
 #EXTINF:-1 tvg-id="E!.us" tvg-name="E!" group-title="Entertainment",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 
-#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" group-title="Entertainment",Freeform
+{#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" group-title="Entertainment",Freeform
 http://origin.thetvapp.to/hls/FreeformEast/index.m3u8  
 http://backup1.m3u8
-http://backup2.m3u8
+http://backup2.m3u8}
 
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" group-title="Documentary",National Geographic
 http://84.17.50.102/nationalgeographic/index.m3u8
