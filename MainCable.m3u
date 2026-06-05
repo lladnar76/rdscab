@@ -63,8 +63,8 @@ http://84.17.50.102/hallmark/index.m3u8
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 http://104.255.88.155/hallmark/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" group-title="Broadcast",Bounce TV
-http://fl51.moveonjoy.com/BOUNCE_TV/index.m3u8
+{#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" group-title="Broadcast",Bounce TV
+http://fl51.moveonjoy.com/BOUNCE_TV/index.m3u8|
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
