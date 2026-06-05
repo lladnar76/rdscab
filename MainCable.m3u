@@ -197,6 +197,8 @@ https://tvpass.org/live/WNBCDT1/sd
 
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-name="Electric Now" tvg-logo="" group-title="Entertainment",Electric Now
 https://your-electric-now-stream.m3u8
+https://elec-en.otteravision.com/elec/en/elec_en.m3u8
+
 
 #EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca",FOX West 
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
