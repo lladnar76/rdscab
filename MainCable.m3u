@@ -31,11 +31,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" group-title="Turner",Adult Swim West
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8?stream=2
 
-#EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="BBC America" group-title="Entertainment",BBC America
+{#EXTINF:-1 tvg-id="BBCAmericaPacific.us" tvg-name="BBC America" group-title="Entertainment",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
-http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8}
 
 #EXTINF:-1 tvg-id="BBCComedy.uk" tvg-name="BBC Comedy" tvg-logo="" group-title="Entertainment",BBC Comedy
 https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
