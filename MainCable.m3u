@@ -72,6 +72,11 @@ http://fl51.moveonjoy.com/DIY/index.m3u8
 
 #EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" tvg-logo="" group-title="Outdoor",PursuitUP
 https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8
+https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
+https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8
+https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
+https://pursuitup-klowdtv.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids",Nicktoons
 http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
