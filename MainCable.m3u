@@ -202,6 +202,12 @@ https://tvpass.org/live/WNBCDT1/sd
 https://your-electric-now-stream.m3u8
 https://elec-en.otteravision.com/elec/en/elec_en.m3u8
 
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="Fox News" group-title="News",Fox News
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+https://e2.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=DoZDGS25sQSGSHyCpbz1Lw&expires=1767024583&user_id=MTA3LjE3My4xNDAuMTY0
+https://e2.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=huhFNKfkpOBOacm4NvClgg&expires=1767024584&user_id=MTA3LjE3My4xNDAuMTY0
+http://41.205.93.154/FOX-NEWS/index.m3u8
+
 
 #EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca",FOX West 
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
