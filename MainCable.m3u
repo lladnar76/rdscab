@@ -330,11 +330,6 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 http://backup1.m3u8
 http://backup2.m3u8
 
-#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV Land" group-title="Entertainment",TV Land
-http://origin.thetvapp.to/hls/tv-land-eastern/index.m3u8
-http://backup1.m3u8
-http://backup2.m3u8
-
 #EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" group-title="Lifestyle",TLC
 http://84.17.50.102/tlc/index.m3u8
 http://backup1.m3u8
