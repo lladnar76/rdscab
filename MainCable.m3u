@@ -203,7 +203,6 @@ https://your-electric-now-stream.m3u8
 https://elec-en.otteravision.com/elec/en/elec_en.m3u8
 
 #EXTINF:-1 tvg-id="Foxnews.us" tvg-name="Fox News" group-title="News",Fox News
-http://nosslstreams.ufreetv.com/?stream=http%3A%2F%2F41.205.93.154%2FFOX-NEWS%2Findex.m3u8
 http://41.205.93.154/FOX-NEWS/index.m3u8
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
